@@ -3,7 +3,7 @@
 
 ### Scalability Lecture At Harvard CS75
 
-[Click Here](https://www.youtube.com/watch?v=-W9F__D3oY4)
+[Watch Here](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
 ### Scale From Zero To Millions Of Users
 
