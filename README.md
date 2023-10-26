@@ -22,8 +22,8 @@
 
 ### Scalability Basics
 
-* What is Vertical Partitioning?
-* What is Horizontal Partitioning?
+* What is Vertical Scaling?
+* What is Horizontal Scaling?
 * What is a Single Point of Failure (SPOF)?
 * What is Resiliency? How do you make systems resilient?
 * What is Redundancy? How do you introduce redundancy in systems?
@@ -39,3 +39,11 @@
 
 ---
 
+### Credits
+
+* [System Design Primer](https://github.com/donnemartin)
+* [bytebytego.com](https://bytebytego.com)
+* [High Scalability](http://highscalability.com/)
+* [systemdesignprep.com](https://systemdesignprep.com)
+* [System design cheat sheet](https://github.com/vasanthk)
+* [igoro.com](https://igoro.com)
