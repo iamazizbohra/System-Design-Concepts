@@ -39,6 +39,36 @@
 
 ---
 
+### Load Balancing
+
+* [Load Balancer](https://github.com/donnemartin/system-design-primer#load-balancer)
+
+* Types of Load Balancers – Based on Functions
+    * [Layer 4](https://www.nginx.com/resources/glossary/layer-4-load-balancing/)
+    * [Layer 7](https://www.nginx.com/resources/glossary/layer-7-load-balancing/) 
+
+* [Types of Load Balancers – Based on Configurations](https://www.appviewx.com/education-center/load-balancer-and-types/#types-of-load-balancers-based-on-configuration)
+    * Hardware Load Balancers
+    * Software Load Balancers
+
+* [Load Balancer Configurations](https://kemptechnologies.com/white-papers/unfog-confusion-active-passive-activeactive-load-balancing)
+    * Active-Active
+    * Active-Passive
+
+* [Load Balancing Algorithms](https://www.appviewx.com/education-center/load-balancer-and-types/#load-balancing-methods)
+
+* [Session Persistence or Sticky Sessions](https://www.imperva.com/learn/availability/sticky-session-persistence-and-cookies/)
+    * Duration-based session persistence
+    * Application-controlled session persistence
+
+* [Proxy vs Forward Proxy vs Reverse Proxy](https://www.youtube.com/watch?v=MiqrArNSxSM)
+
+* [Load Balancer vs Reverse Proxy](https://www.nginx.com/resources/glossary/reverse-proxy-vs-load-balancer/)
+
+* [Load Balancer vs API Gateway](https://blog.hubspot.com/website/api-gateway-vs-load-balancer)
+
+---
+
 ### Credits
 
 * [System Design Primer](https://github.com/donnemartin)
