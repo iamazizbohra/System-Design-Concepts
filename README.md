@@ -69,11 +69,49 @@
 
 ---
 
-### Credits
+### High level trade-offs
 
-* [System Design Primer](https://github.com/donnemartin)
-* [bytebytego.com](https://bytebytego.com)
-* [High Scalability](http://highscalability.com/)
-* [systemdesignprep.com](https://systemdesignprep.com)
-* [System design cheat sheet](https://github.com/vasanthk)
-* [igoro.com](https://igoro.com)
+* [Performance vs scalability](https://github.com/donnemartin/system-design-primer#performance-vs-scalability)
+
+* [Latency vs throughput](https://github.com/donnemartin/system-design-primer#latency-vs-throughput)
+
+* [Availability vs consistency - CAP Theorem](https://github.com/donnemartin/system-design-primer#availability-vs-consistency)
+    * CP - Consistency and partition tolerance
+    * AP - Availability and partition tolerance
+
+---
+
+### Consistency Patterns
+
+* Weak consistency
+* Eventual consistency
+* Strong consistency
+
+[Click Here](https://github.com/donnemartin/system-design-primer#consistency-patterns)
+
+---
+
+### Availability Patterns
+
+* Fail-Over
+* Replication
+
+[Click Here](https://github.com/donnemartin/system-design-primer#availability-patterns)
+
+---
+
+### Availability in numbers
+
+[Click Here](https://github.com/donnemartin/system-design-primer#availability-in-numbers)
+
+---
+
+### Domain name system
+
+[Click Here](https://github.com/donnemartin/system-design-primer#domain-name-system)
+
+[Video](https://www.youtube.com/watch?v=9f1AW2it2WY)
+
+[cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+
+---
