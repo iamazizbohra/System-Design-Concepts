@@ -75,34 +75,33 @@
 
 * [Latency vs throughput](https://github.com/donnemartin/system-design-primer#latency-vs-throughput)
 
-* [Availability vs consistency - CAP Theorem](https://github.com/donnemartin/system-design-primer#availability-vs-consistency)
-    * CP - Consistency and partition tolerance
-    * AP - Availability and partition tolerance
+* [Availability vs consistency](https://github.com/donnemartin/system-design-primer#availability-vs-consistency)
+
+* CAP Theorem
+    * [Story](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+    * [Picture](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+    * [Video](https://www.youtube.com/watch?v=k-Yaq8AHlFA)
 
 ---
 
 ### Consistency Patterns
 
-* Weak consistency
-* Eventual consistency
-* Strong consistency
-
-[Click Here](https://github.com/donnemartin/system-design-primer#consistency-patterns)
+* [Click Here](https://systemdesign.one/consistency-patterns/)
+* [Click Here](https://github.com/donnemartin/system-design-primer#consistency-patterns)
 
 ---
 
 ### Availability Patterns
 
-* Fail-Over
-* Replication
-
-[Click Here](https://github.com/donnemartin/system-design-primer#availability-patterns)
+* [Video](https://www.youtube.com/watch?v=WC7kpQPGPp8)
+* [Click Here](https://github.com/donnemartin/system-design-primer#availability-patterns)
 
 ---
 
 ### Availability in numbers
 
-[Click Here](https://github.com/donnemartin/system-design-primer#availability-in-numbers)
+* [AWS](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/availability.html)
+* [Click Here](https://github.com/donnemartin/system-design-primer#availability-in-numbers)
 
 ---
 
