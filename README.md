@@ -107,7 +107,7 @@
 
 ### Domain name system
 
-<img src="https://d1.awsstatic.com/Route53/how-route-53-routes-traffic.8d313c7da075c3c7303aaef32e89b5d0b7885e7c.png" height="auto" width="500" >
+<img src="https://d1.awsstatic.com/Route53/how-route-53-routes-traffic.8d313c7da075c3c7303aaef32e89b5d0b7885e7c.png" height="auto" width="auto" >
 
 [Video](https://www.youtube.com/watch?v=9f1AW2it2WY)
 
