@@ -121,7 +121,9 @@
 
 ### Content delivery network
 
-[![Video](https://i.ytimg.com/vi/RI9np1LWzqw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr9Vo57Fq0xfmAAeUdbXjglfQScA)](https://www.youtube.com/watch?v=RI9np1LWzqw)
+<img src="https://i.ytimg.com/vi/RI9np1LWzqw/hq720.jpg" height="auto" width="auto" >
+
+[Video](https://www.youtube.com/watch?v=RI9np1LWzqw)
 
 [Click Here](https://github.com/donnemartin/system-design-primer#content-delivery-network)
 
