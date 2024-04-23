@@ -107,10 +107,14 @@
 
 ### Domain name system
 
-[Click Here](https://github.com/donnemartin/system-design-primer#domain-name-system)
+<img src="https://d1.awsstatic.com/Route53/how-route-53-routes-traffic.8d313c7da075c3c7303aaef32e89b5d0b7885e7c.png" height="auto" width="500" >
 
 [Video](https://www.youtube.com/watch?v=9f1AW2it2WY)
 
+[Click Here](https://github.com/donnemartin/system-design-primer#domain-name-system)
+
 [cloudflare](https://www.cloudflare.com/learning/dns/what-is-dns/)
+
+[A Comprehensive Guide to How It Works](https://www.hostinger.in/tutorials/what-is-dns)
 
 ---
